@@ -26,3 +26,12 @@ test/TestSuite/Syntax/Correct/*.html
 test/TestSuite/Syntax/Correct/*.csv
 test/TestSuite/Syntax/Correct/*.xml
 .metadata
+.settings
+.classpath
+.project
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
